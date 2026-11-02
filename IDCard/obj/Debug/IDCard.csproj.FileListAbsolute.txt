@@ -1,0 +1,9 @@
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\bin\Debug\IDCard.exe.config
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\bin\Debug\IDCard.exe
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\bin\Debug\IDCard.pdb
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\obj\Debug\IDCard.csproj.AssemblyReference.cache
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\obj\Debug\IDCard.Form1.resources
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\obj\Debug\IDCard.csproj.GenerateResource.cache
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\obj\Debug\IDCard.csproj.CoreCompileInputs.cache
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\obj\Debug\IDCard.exe
+C:\Users\ewez\Downloads\IDCard_WinForms\IDCard\obj\Debug\IDCard.pdb
